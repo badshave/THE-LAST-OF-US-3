@@ -1,0 +1,20 @@
+#EXTINF:-1 tvg-id="" tvg-name="|EN| THE LAST OF US S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aRquEWm8wWF1dfa9uZ1TXLvVrKD_small.jpg" group-title="|EN| HBO Max / Discovery+",|EN| THE LAST OF US S01 E01
+http://line.ottcst.org:80/series/CFEJDVUZVN/2QGH23AZV5/501430.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|EN| THE LAST OF US S01 E02" tvg-logo="http://line.crystal-ott.com:80/images/uKvVjHNqB5VmOrdxqAt2F7J78ED_big.jpg" group-title="|EN| HBO Max / Discovery+",|EN| THE LAST OF US S01 E02
+http://line.ottcst.org:80/series/CFEJDVUZVN/2QGH23AZV5/503911.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|EN| THE LAST OF US S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bzy4hAtkY3OOInY4q6MJigLmC1m_small.jpg" group-title="|EN| HBO Max / Discovery+",|EN| THE LAST OF US S01 E03
+http://line.ottcst.org:80/series/CFEJDVUZVN/2QGH23AZV5/506672.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|EN| THE LAST OF US S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/szQ95jxKNrYWnCAJx8VC51iws5d_small.jpg" group-title="|EN| HBO Max / Discovery+",|EN| THE LAST OF US S01 E04
+http://line.ottcst.org:80/series/CFEJDVUZVN/2QGH23AZV5/512594.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|EN| THE LAST OF US S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/veaxeXMVA3mZGOP8cxceKRWm1LE_small.jpg" group-title="|EN| HBO Max / Discovery+",|EN| THE LAST OF US S01 E05
+http://line.ottcst.org:80/series/CFEJDVUZVN/2QGH23AZV5/513107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|EN| THE LAST OF US S01 E06" tvg-logo="http://line.crystal-ott.com:80/images/zW9AIy0PVhYfmukqBcUvlvi4mKc_small.jpg" group-title="|EN| HBO Max / Discovery+",|EN| THE LAST OF US S01 E06
+http://line.ottcst.org:80/series/CFEJDVUZVN/2QGH23AZV5/515570.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|EN| THE LAST OF US S01 E07" tvg-logo="http://line.crystal-ott.com:80/images/viH0GWgLnwMa2geRIArU4fgp4rI_small.jpg" group-title="|EN| HBO Max / Discovery+",|EN| THE LAST OF US S01 E07
+http://line.ottcst.org:80/series/CFEJDVUZVN/2QGH23AZV5/527310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|EN| THE LAST OF US S01 E08" tvg-logo="http://line.crystal-ott.com:80/images/6DHQgB85iKMcabcKvC9HSDH3UDo_small.jpg" group-title="|EN| HBO Max / Discovery+",|EN| THE LAST OF US S01 E08
+http://line.ottcst.org:80/series/CFEJDVUZVN/2QGH23AZV5/539149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|EN| THE LAST OF US S01 E09" tvg-logo="http://line.crystal-ott.com:80/images/qFouIBgN3Jgba7LnuRmkTAohh07_small.jpg" group-title="|EN| HBO Max / Discovery+",|EN| THE LAST OF US S01 E09
+http://line.ottcst.org:80/series/CFEJDVUZVN/2QGH23AZV5/546552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|EN| THE LAST OF US S01 E10" tvg-logo="http://line.crystal-ott.com:80/images/uKvVjHNqB5VmOrdxqAt2F7J78ED_big.jpg" group-title="|EN| HBO Max / Discovery+",|EN| THE LAST OF US S01 E10
+http://line.ottcst.org:80/series/CFEJDVUZVN/2QGH23AZV5/546553.mkv
